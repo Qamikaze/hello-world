@@ -1,11 +1,4 @@
-"""
-This code evaluates the Image recognition performance in terms of LOSS
-brief code structure:
-    - Data Loading / Preparation (MNIST)
-    - Defining CNN
-    - Train data (with Validation)
-    - Test set
-"""
+
 
 import numpy as np
 import matplotlib.pyplot as plt
